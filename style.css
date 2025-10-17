@@ -1,5 +1,5 @@
 body{ 
-    color: black;
+    color:rgb(187, 0, 204);
     background: rgb(233, 110, 202);
     margin: 0px;
     font-family: "DM Serif Text", sans-serif;
@@ -17,4 +17,7 @@ section{
     padding-bottom: 80px;
     display:flex;
     justify-content: center;
+}
+.chamada-texto{
+    margin-right: 5%;
 }
