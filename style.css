@@ -31,3 +31,12 @@ p{
 img{
     height: 200px;
 }
+.categoria-video{
+    display: flex;
+    overflow-x: auto;
+    gap
+}
+.categoria{
+    padding-left: 20px;
+    padding-rigth: 20px;
+}
