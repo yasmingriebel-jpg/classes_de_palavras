@@ -21,3 +21,13 @@ section{
 .chamada-texto{
     margin-right: 5%;
 }
+h1{
+    font-size: 40px;
+
+}
+p{
+    font-size: 20px;
+}
+img{
+    height: 200px;
+}
