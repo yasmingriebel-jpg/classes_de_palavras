@@ -3,6 +3,7 @@ body{
     background: rgb(233, 110, 202);
     margin: 0px;
     font-family: "DM Serif Text", sans-serif;
+    margin-bottom: 100px
 }
 
 header{
@@ -31,7 +32,7 @@ p{
 img{
     height: 200px;
 }
-.categoria-video{
+.categoria-videos{
     display: flex;
     overflow-x: auto;
     gap: 10px
@@ -39,8 +40,17 @@ img{
 .categoria{
     padding-left: 20px;
     padding-rigth: 20px;
+    margin-top: 
 }
-.categoria-video img{
+.categoria-videos img{
     opacity: 0,5;
     height: 200px;
+}
+.categoria-videos img:hover{
+opacity: 1.0;
+border: 1px solid blueviolet;
+
+}
+.categoria h2{
+    color:aqua
 }
