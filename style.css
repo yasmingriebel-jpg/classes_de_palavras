@@ -1,6 +1,6 @@
 body{ 
-    color:rgb(187, 0, 204);
-    background: rgb(233, 110, 202);
+    color:rgb(46, 95, 255);
+    background: rgb(0, 29, 196);
     margin: 0px;
     font-family: "DM Serif Text", sans-serif;
     margin-bottom: 100px
@@ -10,7 +10,7 @@ header{
     border-bottom: solid 2px rgb(241, 233, 234);
     padding: 20px;
     font-size: 32px;
-    color: rgb(187, 0, 204);
+    color: rgb(255, 255, 255);
 }
 
 section{
